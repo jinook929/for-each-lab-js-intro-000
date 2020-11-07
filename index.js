@@ -8,6 +8,6 @@ function iterate(myFunc) {
   return arr;
 }
 
-function doToArray(item, index, array) {
+function doToArray(element, index, array) {
   array[index] = `${index + 1}: ${element}`
 }
