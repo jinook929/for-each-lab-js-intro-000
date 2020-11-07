@@ -9,5 +9,5 @@ function iterate(myFunc) {
 }
 
 function doToArray(item, index, array) {
-  arr.forEach(myFunc);
-}arr[index] = `${index}: ${element}`
+  arr.forEach(myFunc);arr[index] = `${index}: ${element}`
+}
