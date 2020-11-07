@@ -4,10 +4,10 @@ function iterativeLog(arr) {
 
 function iterate(myFunc) {
   let arr = [];
-  arr[index] = `${index}: ${element}`
+  
   return arr;
 }
 
 function doToArray(item, index, array) {
   arr.forEach(myFunc);
-}
+}arr[index] = `${index}: ${element}`
