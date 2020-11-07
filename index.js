@@ -3,11 +3,11 @@ function iterativeLog(arr) {
 }
 
 function iterate(myFunc) {
-  let arr = [];
-  
+  let arr = ['JJO', 'SC', 'JSJ', 'JCJ'];
+  arr.forEach(myFunc);
   return arr;
 }
 
 function doToArray(item, index, array) {
-  arr.forEach(myFunc);arr[index] = `${index}: ${element}`
+  array[index] = `${index + 1}: ${element}`
 }
